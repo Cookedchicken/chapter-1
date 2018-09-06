@@ -1,0 +1,13 @@
+package excercises;
+
+public class NauticalMiles {
+
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+        int numberofkilometers;
+        int numberofmiles;
+        
+        
+	}
+
+}
