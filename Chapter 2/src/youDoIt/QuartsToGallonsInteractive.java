@@ -14,8 +14,8 @@ public class QuartsToGallonsInteractive {
 		numberofGallons = numberofQuartsNeeded / QTS_IN_Gallons;
 		numberofQuarts  = numberofQuartsNeeded % QTS_IN_Gallons;
 		
-		System.out.println("Number of gallons");
-		System.out.println("Number of Quarts");
+		System.out.println("How many quarts are needed ");
+		numberofQuartsNeeded = input.nextByte();
 		
 		
 		
